@@ -15,7 +15,7 @@ p {
 .weather{
   color: #858585;
   /*background: #e0ffff; */
-  background-image: url(cp.jpg);
+  background-color: lightyellow;
   background-size: cover;
 
 }
